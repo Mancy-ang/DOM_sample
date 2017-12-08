@@ -1,0 +1,12 @@
+INDEX VERSION 1.121+E:\BUPT_Preparing\Courses\using\XML_course\Presentaions\For_Teacher\XML_Samples\XML_DOM\.metadata\.plugins\org.eclipse.jdt.core
+3309318257.index
+1431714068.index
+2639668594.index
+4272483288.index
+1249829837.index
+3687053539.index
+2070179913.index
+1787532562.index
+1060852212.index
+1653432133.index
+2722491716.index
